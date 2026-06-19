@@ -1,0 +1,14 @@
+.message {
+    background: #0885ff;
+    color: #fff;
+    width: 160px;
+    height: 30px;
+    position: fixed;
+    top: 10px;
+    left:50%;
+    margin-left: -80px;
+    border: 1px solid #ccc;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 5px;
+}
