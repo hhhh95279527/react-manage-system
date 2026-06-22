@@ -8,7 +8,6 @@
 [![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter)](https://reactrouter.com/)
 [![ECharts](https://img.shields.io/badge/ECharts-5-AA344D)](https://echarts.apache.org/)
 
-> 在线演示：[https://hhhh95279527.github.io/react-manage-system/](https://hhhh95279527.github.io/react-manage-system/)
 
 企业级后台管理系统前端方案，基于 React 18 + TypeScript + Vite 6 构建，集成 Ant Design 5、Zustand 状态管理、React Router 7 动态路由、ECharts 数据可视化，具备完整的 RBAC 权限体系和 Mock 数据方案。
 
@@ -179,8 +178,3 @@ npm run build
 npm run preview
 ```
 
-## 页面截图
-
-> 在线演示：[https://hhhh95279527.github.io/react-manage-system/](https://hhhh95279527.github.io/react-manage-system/)
-
-（截图待补充，可先访问在线演示查看效果）
