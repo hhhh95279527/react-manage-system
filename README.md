@@ -11,6 +11,10 @@
 
 企业级后台管理系统前端方案，基于 React 18 + TypeScript + Vite 6 构建，集成 Ant Design 5、Zustand 状态管理、React Router 7 动态路由、ECharts 数据可视化，具备完整的 RBAC 权限体系和 Mock 数据方案。
 
+## 项目演示
+
+<video src="./react企业管理后台.mp4" controls width="100%"></video>
+
 ## 架构总览
 
 ```mermaid
