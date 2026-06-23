@@ -13,7 +13,7 @@
 
 ## 项目演示
 
-<video src="./react企业管理后台.mp4" controls width="100%"></video>
+[点击观看项目演示视频](https://github.com/hhhh95279527/react-manage-system/blob/main/react%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0.mp4)
 
 ## 架构总览
 
